@@ -1,4 +1,5 @@
-👋 Hi, I'm Pablo Carrasco
+👋 Hi, I'm Santiago Carrasco
+
 I'm a data analyst with over 4 years of experience transforming data into actionable insights across industries like manufacturing, finance, retail, and supply chain. I specialize in end-to-end data workflows—data extraction, transformation, visualization, and analysis—using tools like Python, SQL, Tableau, Power BI, dbt, and Pentaho.
 
 🔧 What I Do
@@ -15,6 +16,7 @@ I'm a data analyst with over 4 years of experience transforming data into action
 - Cloud & Databases: Oracle, SQL Server
 
 🌍 About Me
+
 I’m based in Cuenca, Ecuador, and hold dual Spanish nationality. I enjoy running and making music in my free time. I’m passionate about turning messy data into meaningful stories and learning new tools along the way.
 
 📫 Let’s Connect
@@ -23,7 +25,8 @@ Check out my repositories below or reach out via email!
 
 -------------------------------------------------------------------------------------------------------------------------
 
-👋 Hola, soy Pablo Carrasco
+👋 Hola, soy Santiago Carrasco
+
 Soy analista de datos con más de 4 años de experiencia transformando datos en información accionable en sectores como manufactura, finanzas, retail y cadena de suministro. Me especializo en flujos de trabajo de datos de principio a fin: extracción, transformación, visualización y análisis, utilizando herramientas como Python, SQL, Tableau, Power BI, dbt y Pentaho.
 
 🔧 Lo que hago
@@ -40,6 +43,7 @@ Soy analista de datos con más de 4 años de experiencia transformando datos en 
 - Bases de datos y nube: Oracle, SQL Server
 
 🌍 Sobre mí
+
 Estoy ubicado en Cuenca, Ecuador. También cuento con nacionalidad española. En mi tiempo libre disfruto de correr y hacer música. Me apasiona convertir datos desordenados en historias claras y seguir aprendiendo nuevas herramientas en el camino.
 
 📫 ¡Conectemos!
